@@ -60,14 +60,15 @@ then total epispdes enter {10}
 then enter if you want output files to be renamed (y or n)
 
 if y then it will ask you for new names
-so if you want episodes o be named like "S01E01-a.mkv" "S01E02-b.mkv" "S01E03-c.mkv".......so on for 10 files
+so if you want episodes to be named like "S01E01-a.mkv" "S01E02-b.mkv" "S01E03-c.mkv".......so on for 10 files
 just enter "a" then "b" then "c" and the rest will be done on its own
 
 then give ypur choice about subtitles(y or n)
-then about audio track in case you have dual audio
-1 to REMOVE hindi
-2 to REMOVE english
-3 for none
+then about audio tracks it will show you available audio tracks for eg:-
+1. Hindi
+2. English
+Enter the number you wanna remove and enter 0 to go to next step
+then it will ask if you want to carry this audio configuration to all upcoming files (Y/N)
 
 and then wait your output files will be stored in a sub directory named "processes" in your "season 1" directory
 
