@@ -1,5 +1,5 @@
 # MKV_GM
-# v 1.0.0
+# v 1.1.0
  MKV_GM(Group MetaEditor) for editing multiple MKV files at once
 
 
