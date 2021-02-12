@@ -59,8 +59,9 @@ then total epispdes enter {10}
 
 then enter if you want output files to be renamed (y or n)
 
-if y then it will ask you for new names
-so if you want episodes to be named like "S01E01-a.mkv" "S01E02-b.mkv" "S01E03-c.mkv".......so on for 10 files
+if y then it will ask you if you want to edit automatically(1) or manually (2).
+if entered 1-- it will ask you name of your series and will show you search results with small discription enter the index of the show you are looking for and press enter
+if entered 2-- it will ask yuo for new names so if you want episodes to be named like "S01E01-a.mkv" "S01E02-b.mkv" "S01E03-c.mkv".......so on for 10 files
 just enter "a" then "b" then "c" and the rest will be done on its own
 
 then give ypur choice about subtitles(y or n)
@@ -75,6 +76,6 @@ and then wait your output files will be stored in a sub directory named "process
 
 4. Extra
 ---------------
-I'm Working on GUI interface and also automatic renamer so you wont have to enter episode names manually....
+I'm Working on GUI interface...
 
 to Show support and kepp yourself up-to-date pls star this project
